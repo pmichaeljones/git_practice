@@ -2,4 +2,4 @@ Here I will type something.
 
 I will write another sentence here.
 
-I wrote this line in the master branch.
+I wrote this line in the master branch. AND THIS ONE TOO!
