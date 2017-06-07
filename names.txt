@@ -3,3 +3,5 @@ Here I will type something.
 I will write another sentence here.
 
 I wrote this line in the master branch. AND THIS ONE TOO!
+
+This is from the master branch. Bringing it into a feature branch.
